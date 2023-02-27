@@ -6,7 +6,7 @@ WebPaPa is a simple Script to ssh a remote ubuntu machine and config it as a apa
 
 Requirement         | Specification
 ------------------- | ----------------------
-OS                  | Ubuntu (every version)
+OS                  | Ubuntu (all versions)
 Language            | bash
 
 
